@@ -1,10 +1,13 @@
-# FactorioSiloRandomPosition
+# RandomSiloSpawn
 
 
-Factorio mod that place silo at random position and prevent player from creating new ones.
+Random Silo Spawn is Factorio mod that place silo at random position and prevent player from creating new ones.
 
+Based on frontier silo and oarc_util code.
 
-Based on froentier silo and oarc_util code.
+# Downloads
+
+https://mods.factorio.com/mods/system/RandomSiloSpawn
 
 # References
 
@@ -12,4 +15,4 @@ http://github.com/Oarcinae/FactorioScenarioMultiplayerSpawn
 
 # Thanks
 
-Factorio community and espeacially zx64 on Fctorio Discord.
+Factorio community and especially zx64 on Fctorio Discord.
