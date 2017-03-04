@@ -18,6 +18,13 @@ script.on_event(defines.events.on_chunk_generated, function(event)
     end
 end)
 
+----------------------------------------
+-- On Research Finished
+----------------------------------------
+script.on_event(defines.events.on_research_finished, function(event)
+        RemoveRocketSiloRecipe(event)
+end)
+
 
 
 -- Get a random 1 or -1
